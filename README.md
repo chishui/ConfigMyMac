@@ -7,6 +7,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install zsh
 ####3. Install Oh-my-zsh  
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"  
+change path to absolute path: edit oh-my-zsh theme, change %c to %d
 [website](http://ohmyz.sh/)
 ####4. Config terminal
 ####5. Install Vim
