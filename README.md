@@ -18,3 +18,7 @@ edit .zshrc, add autojump to plugin
 . Install Vundle:git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 . vim and run :PluginInstall 
 ####6. Install Vundle
+####7. Plugins
+#####1. clang-format: 
+install: brew install clang-format  
+vim support: https://llvm.org/svn/llvm-project/cfe/trunk/tools/clang-format/clang-format.py
