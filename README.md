@@ -24,4 +24,7 @@ install: brew install clang-format
 vim support: https://llvm.org/svn/llvm-project/cfe/trunk/tools/clang-format/clang-format.py
 #####2. tagbar:  
 install: .vimrc vundle  
-support page: https://thomashunter.name/blog/installing-vim-tagbar-with-macvim-in-os-x/
+support page: https://thomashunter.name/blog/installing-vim-tagbar-with-macvim-in-os-x/  
+#####3. YouCompleteMe:  
+support page: https://valloric.github.io/YouCompleteMe/#ubuntu-linux-x64-super-quick-installation  
+
