@@ -22,3 +22,6 @@ edit .zshrc, add autojump to plugin
 #####1. clang-format: 
 install: brew install clang-format  
 vim support: https://llvm.org/svn/llvm-project/cfe/trunk/tools/clang-format/clang-format.py
+#####2. tagbar:  
+install: .vimrc vundle  
+support page: https://thomashunter.name/blog/installing-vim-tagbar-with-macvim-in-os-x/
