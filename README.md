@@ -8,7 +8,7 @@ brew install zsh
 ####3. Install Oh-my-zsh  
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"  
 change path to absolute path: edit oh-my-zsh theme, change %c to %d  
-install autojump:
+install autojump:  
 brew install autojump
 edit .zshrc, add autojump to plugin
 [website](http://ohmyz.sh/)
