@@ -10,7 +10,8 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 change path to absolute path: edit oh-my-zsh theme, change %c to %d  
 install autojump:  
 brew install autojump
-edit .zshrc, add autojump to plugin
+edit .zshrc, add autojump to plugin  
+install [zsh-completions](https://github.com/zsh-users/zsh-completions)  
 [website](http://ohmyz.sh/)
 ####4. Config terminal
 ####5. Install Vim
